@@ -1,0 +1,19 @@
+[project]
+name = "unsignedGen"
+version = "1.0.0"
+authors = [
+  { name="Manil Jayswal", email="manil.jayswal@viitor.cloud" },
+]
+description = "A package for generating unsigned certificates with issuer and subject information."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"

@@ -2,7 +2,7 @@
 name = "unsignedGen"
 version = "1.0.0"
 authors = [
-  { name="Manil Jayswal", email="manil.jayswal@viitor.cloud" },
+  { name="Manil Jayswal", email="maniljayswal418@gmail.com" },
 ]
 description = "A package for generating unsigned certificates with issuer and subject information."
 readme = "README.md"
@@ -15,5 +15,5 @@ classifiers = [
 
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
+Homepage = "https://github.com/jayswal433/unsigned-gen"
 Issues = "https://github.com/pypa/sampleproject/issues"

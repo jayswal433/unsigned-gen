@@ -1,0 +1,62 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python-specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+*.cover
+*.py,cover
+.coverage
+.coverage.*
+
+# Test and debug artifacts
+.tox/
+.nox/
+*.pytest_cache/
+*.hypothesis/
+
+# Packaging artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
